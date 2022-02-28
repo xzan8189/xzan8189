@@ -6,7 +6,7 @@
   - 📫 How to reach me: **vincenzomarrazzo8189@gmail.com**
 
 
-### 🎓 My Github stats
+## 🎓 My Github stats
 
 
 <div align="center">
@@ -14,7 +14,7 @@
       <img alt="" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzan8189&theme=darcula&layout=compact">
 </div>
 
-### 🚀 My Projects
+## 🚀 My Projects
 
 <div align="center">
   
