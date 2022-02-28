@@ -11,7 +11,7 @@
 
 <div align="center">
       <img alt="" width="450" src="https://github-readme-stats.vercel.app/api?username=xzan8189&theme=darcula&show_icons=true">
-      <img alt="" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzan8189&theme=darcula&layout=compact">
+      <img alt="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzan8189&theme=darcula&layout=compact">
 </div>
 
 ## 🚀 My Projects
