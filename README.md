@@ -21,6 +21,8 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xzan8189&repo=CryptoBot&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,FF4C1D,9B0063)](https://github.com/xzan8189/CryptoBot)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xzan8189&repo=SocialMediaAnalysis-Amici-2021-2022&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,FF4C1D,9B0063)](https://github.com/xzan8189/SocialMediaAnalysis-Amici-2021-2022)
 </div>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xzan8189&repo=VORWERK-TSW&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,FF4C1D,9B0063)](https://github.com/xzan8189/VORWERK-TSW)
+</div>
 
 
 <h3 align="center">Let's Connect ☕</h3>
