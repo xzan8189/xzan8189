@@ -30,10 +30,10 @@
 </p>
 
 <!-- Number of visitors -->
-<p align = "center">
+<!-- <p align = "center">
   <img src = "https://komarev.com/ghpvc/?username=xzan8189&color=red">
 </p>
-
+-->
 
 
 <!--
