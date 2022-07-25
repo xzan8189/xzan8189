@@ -17,7 +17,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xzan8189&repo=Gym-IoT&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,FF4C1D,9B0063)](https://github.com/xzan8189/Gym-IoT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xzan8189&repo=CryptoBot&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,FF4C1D,9B0063)](https://github.com/xzan8189/CryptoBot)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xzan8189&repo=SocialMediaAnalysis-Amici-2021-2022&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,FF4C1D,9B0063)](https://github.com/xzan8189/SocialMediaAnalysis-Amici-2021-2022)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xzan8189&repo=GameOfLife-mpi&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,FF4C1D,9B0063)](https://github.com/xzan8189/GameOfLife-mpi)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xzan8189&repo=Statistical-survey-of-university-salaries-2021&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,FF4C1D,9B0063)](https://github.com/xzan8189/Statistical-survey-of-university-salaries-2021)
 
 <!-- Connect with me -->
