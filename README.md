@@ -9,12 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-marrazzo-bab333228/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/xzan8189)
 
-## 🎓 My Github stats:
+## 🎓 Github Profile Stats:
 
-<div>
-      <img alt="" width="380" src="https://github-readme-stats.vercel.app/api?username=xzan8189&theme=darcula&show_icons=true">
-      <img alt="" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzan8189&theme=darcula&layout=compact">
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vincenzo Marrazzo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=xzan8189&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vincenzo Marrazzo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xzan8189&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 ## 🚀 My Projects:
 
@@ -23,6 +21,11 @@
 <a href="https://github.com/xzan8189/GameOfLife-mpi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xzan8189&repo=GameOfLife-mpi&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/xzan8189/Statistical-survey-of-university-salaries-2021"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xzan8189&repo=Statistical-survey-of-university-salaries-2021&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <!-- Number of visitors -->
 <a href="https://visitcount.itsvg.in">
