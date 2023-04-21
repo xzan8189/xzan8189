@@ -4,14 +4,11 @@ on:
   push:
     branches: [ main ]
   workflow_dispatch:
-  
-runs:
-  using: 'node16'
-  main: 'main.js'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    using: 'node16'
     name: Update the Vincenzo Marrazzo's README with recent activity
 
     steps:
