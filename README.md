@@ -28,6 +28,11 @@
   <a href="https://www.facebook.com/vincenzo.marrazzo.94/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
+
+<!-- Number of visitors -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=xzan8189&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>
 <!-- Number of visitors -->
 <!-- <p align = "center">
   <img src = "https://komarev.com/ghpvc/?username=xzan8189&color=red">
