@@ -1,6 +1,8 @@
 name: Update README
 
 on:
+  push:
+    branch: [main]
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
@@ -12,6 +14,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: Readme-Workflows/recent-activity@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
