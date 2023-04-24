@@ -21,7 +21,7 @@
 <a href="https://github.com/xzan8189/GameOfLife-mpi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xzan8189&repo=GameOfLife-mpi&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/xzan8189/Statistical-survey-of-university-salaries-2021"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xzan8189&repo=Statistical-survey-of-university-salaries-2021&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
-## ⚡ My Recent Activity
+<!-- ## ⚡ My Recent Activity -->
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--RECENT_ACTIVITY:start-->
 
