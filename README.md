@@ -27,6 +27,10 @@
 
 <!--END_SECTION:activity-->
 
+## ⌨️ Coding
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 ---
 <!-- Number of visitors -->
 <a href="https://visitcount.itsvg.in">
