@@ -30,6 +30,19 @@
 ## ⌨️ Coding
 <!--START_SECTION:waka-->
 
+```text
+From: 24 May 2023 - To: 25 May 2023
+
+Total Time: 13 mins
+
+C            12 mins         ████████████████████████░   96.03 %
+Python       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```
+
 <!--END_SECTION:waka-->
 ---
 <!-- Number of visitors -->
