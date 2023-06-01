@@ -27,7 +27,7 @@
 
 <!--END_SECTION:activity-->
 
-<!-- ## ⌨️ Coding -->
+## ⌨️ Coding
 <!--START_SECTION:waka-->
 
 ```text
