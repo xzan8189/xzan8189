@@ -4,7 +4,6 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
-
 jobs:
   build:
     name: Update the Vincenzo Marrazzo's README with recent activity
