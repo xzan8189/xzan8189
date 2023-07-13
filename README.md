@@ -25,7 +25,7 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/xzan8189/TEMPLATE/pull/1) in [xzan8189/TEMPLATE](https://github.com/xzan8189/TEMPLATE)
-2. 🗣 Commented on [#94](https://github.com/jamesgeorge007/github-activity-readme/issues/94) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#94](https://github.com/jamesgeorge007/github-activity-readme/issues/94#issuecomment-1534875973) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ## ⌨️ Coding
