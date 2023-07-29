@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2023 - To: 28 July 2023
+From: 24 May 2023 - To: 29 July 2023
 
 Total Time: 36 hrs 1 min
 
