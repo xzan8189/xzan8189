@@ -32,20 +32,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2023 - To: 09 October 2023
+From: 24 May 2023 - To: 10 October 2023
 
-Total Time: 61 hrs 34 mins
+Total Time: 64 hrs 20 mins
 
-Java              19 hrs 58 mins  ████████░░░░░░░░░░░░░░░░░   32.44 %
-Python            12 hrs 53 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
-C                 9 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
-Solidity          5 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-JSON              2 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Solidity file     2 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Markdown          1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Bash              1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Other             1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Text              55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Java              22 hrs 32 mins  ████████▓░░░░░░░░░░░░░░░░   35.04 %
+Python            12 hrs 53 mins  █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+C                 9 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+Solidity          5 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+JSON              2 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Solidity file     2 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Markdown          1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Bash              1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Other             1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Text              55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
