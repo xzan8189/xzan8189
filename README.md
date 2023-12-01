@@ -32,14 +32,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2023 - To: 29 November 2023
+From: 24 May 2023 - To: 30 November 2023
 
-Total Time: 78 hrs 32 mins
+Total Time: 78 hrs 37 mins
 
-Java              29 hrs 59 mins  █████████▓░░░░░░░░░░░░░░░   38.18 %
-Python            12 hrs 53 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
-C                 9 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-Solidity          6 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+Java              30 hrs 3 mins   █████████▓░░░░░░░░░░░░░░░   38.23 %
+Python            12 hrs 53 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+C                 9 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Solidity          6 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
 JSON              2 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 Solidity file     2 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 Text              2 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
