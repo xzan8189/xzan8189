@@ -1,6 +1,6 @@
 ## ✨ Hi there, I'm Vincenzo Marrazzo
 
-🌱 I’m currently learning Cloud Computing at University of Salerno.<br>
+🌱 Master student in Computer Science, curriculum Cloud Computing at University of Salerno.<br>
 📫 How to reach me: **vincenzomarrazzo8189@gmail.com**.
 
 <!-- Connect with me -->
